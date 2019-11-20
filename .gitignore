@@ -21,3 +21,6 @@ Dart_Packages.xml
 .DS_Store
 .idea/
 *.aqueduct.pid
+=======
+# See https://www.dartlang.org/guides/libraries/private-files
+
